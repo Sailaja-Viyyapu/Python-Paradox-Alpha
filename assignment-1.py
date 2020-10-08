@@ -26,6 +26,13 @@ paragraph1="there is company named is. it is constructed in island."
 print(paragraph1.find("is"))
 print(paragraph1.count("is"))
 
+4)
+def data():
+    autobiography ="Virat Kohli {} an Indian cricketer {} the current captain of the {} national team."
+    print(autobiography.format('is','and','indian'))
+data()
+
+
 5)----------standard data types-------
 
 Data types are the classification or categorization of data items.
